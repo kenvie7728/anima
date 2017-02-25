@@ -1,0 +1,314 @@
+Ui_title = медиатеки
+
+Ui_data = данные обслуживание
+
+Ui_information = аниме информации
+
+Ui_popularization = аниме научно-популярный
+
+Ui_resource = аниме ресурсов
+
+Ui_accessory = приложение
+
+Ui_setting = настройки
+
+Ui_link = товарищество ссылки
+
+Ui_tell = м юаней диалога
+
+Ui_help = помощь руководства
+
+Ui_data_start = инициализация
+
+Ui_data_save = пользователь резервного копирования
+
+Ui_data_exit = выход
+
+Ui_information_cartoon = анимация разведки
+
+Ui_information_anime = комикс разведки
+
+Ui_information_exhibition = непрофессиональными сводные выставка
+
+Обзор ui_popularization_summary = аниме
+
+Ui_popularization_picture = оригинальную живопись
+
+Ui_popularization_music = музыка FanChang
+
+Ui_popularization_note = легкий роман библиотек
+
+В соседнем ui_popularization_dance = совершенствуйте танец
+
+Ui_popularization_near = аниме периметр
+
+Ui_popularization_cosplay = Cosplay
+
+Ui_popularization_game = игры DianWan
+
+Ui_popularization_video = видео производство
+
+Ui_resource_picture = аниме галерея
+
+Ui_resource_music = сложилось чувство музыки
+
+Ui_resource_video = аниме видео
+
+Ui_accessory_tools = маленький инструмент
+
+Ui_accessory_games = маленькую игру
+
+Ui_setting_in = импорта данных
+
+Ui_setting_out = данных экспорта
+
+Ui_setting_set = программное обеспечение настройки
+
+Ui_link_forum = форум сайта
+
+Ui_link_music = музыка веб-сайт
+
+Ui_link_video = сайт с видео
+
+Ui_link_picture = фото сайта
+
+Ui_link_note = легкий роман веб-сайт
+
+Ui_link_project = тематических колонн
+
+Ui_tell_ai = автоматически беседа системы
+
+Ui_help_help = помочь темы
+
+Ui_help_tell = отзывы
+
+Ui_help_about = о программного обеспечения
+
+Ui_help_term = для команды
+
+Tool_title = маленький инструмент
+
+Tool_communication = коммуникации барух
+
+Tool_note = блокнот
+
+Tool_finder = документ поиска
+
+Tool_media = медиаплееры
+
+Tool_pic = фотографии браузер
+
+Tool_shutdown = синхронизация закрытие
+
+Game_title = досужий маленькую игру
+
+Game_chess = WuZiQi
+
+Game_fright = аниме гладиатора
+
+Game_get = сокровища
+
+Tool_communication_title = коммуникации барух
+
+Tool_communication_addButton = добавить запись
+
+Tool_communication_updateButton = изменять записи
+
+Tool_communication_deleteButton = удаления записей
+
+Tool_communication_optionButton = операционной дневник
+
+Tool_communication_findButton = поиск
+
+Tool_communication_add_title = добавлять пользователей
+
+Tool_communication_add_name = имя:
+
+Tool_communication_add_phone = телефон:
+
+Tool_communication_add_tel = телефон:
+
+Tool_communication_add_qq = QQ:
+
+Tool_communication_add_email = почта:
+
+Tool_communication_add_addButton = добавить
+
+Tool_communication_add_giveupButton = закрыты
+
+Tool_communication_add_successMessage = добавить успеха!
+
+Tool_communication_add_failMessage = добавить провал!
+
+Tool_communication_show_title = информации о пользователях
+
+Tool_communication_show_name = имя:
+
+Tool_communication_show_phone = телефон:
+
+Tool_communication_show_tel = телефон:
+
+Tool_communication_show_qq = QQ:
+
+Tool_communication_show_email = почта:
+
+Tool_communication_show_giveupButton = закрыты
+
+Tool_communication_delete_title = удаление информации о пользователях
+
+Tool_communication_delete_name = имя:
+
+Tool_communication_delete_phone = телефон:
+
+Tool_communication_delete_tel = телефон:
+
+Tool_communication_delete_qq = QQ:
+
+Tool_communication_delete_email = почта:
+
+Tool_communication_delete_addButton = удалить
+
+Tool_communication_delete_giveupButton = закрыты
+
+Tool_communication_delete_successMessage = успешного удаления!!!
+
+Tool_communication_delete_failMessage = удалить провал!
+
+Tool_note_title = блокнот - - - - - - - - - - - - - - - - - - - - - помни в жизни каждого немного деталь
+
+Tool_note_show = просмотра
+
+Tool_note_add = добавить
+
+Tool_note_update = изменения
+
+Tool_note_delete = удалить
+
+Tool_note_find = поиск
+
+Tool_note_date = дата:
+
+Tool_note_time = времени:
+
+Tool_note_text = профиль:
+
+Tool_note_message = успешного удаления!!!
+
+Tool_note_messagePane_label1 = напоминает настройки:
+
+Tool_note_messagePane_label2 = заголовок:
+
+Tool_note_messagePane_label3 = контент:
+
+Tool_note_messagePane_label4 = напоминает время: как: 7 октября 2013 года)
+
+Tool_note_messagePane_comboBox = открыт
+
+Tool_note_show_title = просматривать записи
+
+Tool_note_show_exit = закрыты
+
+Tool_note_add_title = добавить запись
+
+Tool_note_add_button1 = добавить
+
+Tool_note_add_button2 = закрыты
+
+Tool_note_add_message = добавить успеха!
+
+Tool_note_update_title = изменять записи
+
+Tool_note_update_button1 = изменения
+
+Tool_note_update_button2 = закрыты
+
+Tool_note_update_message = изменения успешно!
+
+Tool_finder_title = поиск файла отображения
+
+Tool_finder_find = поиск
+
+Tool_finder_stop = остановиться
+
+Game_fright_title = гладиатора
+
+Game_fright_button = начала
+
+Game_chess_title = WuZiQi
+
+Game_chess_who1 = сейчас: a строки
+
+Game_chess_who2 = сейчас: б строк
+
+Game_chess_m1 = сейчас: а выиграл
+
+Game_chess_m2 = сейчас: pr выиграл
+
+Game_chess_m3 = игра закончилась!!!
+
+Game_chess_m4 = уже первый шаг!
+
+Game_chess_b1 = HuiQi
+
+Game_chess_b2 = заново
+
+Game_car_title = сокровища
+
+In_title = импорта данных
+
+In_message = успех!
+
+Out_title = экспортировать данные
+
+Out_save = сохранить
+
+Out_message = экспортировать успеха!
+
+Out_message1 = закончить!
+
+Pane_c1 = приложения конфигурации
+
+Pane_c2 = коммуникации барух
+
+Pane_c3 = блокнот
+
+Pane_b1 = импортировать
+
+Pane_b2 = загрузки
+
+Pane_b3 = отменить
+
+Setting_ok = приложения
+
+Setting_canel = отменить
+
+Setting_open = пролистать
+
+Setting_message1 = изменения успешно!
+
+Setting_message2 = изменения провал!
+
+Setting_title = настройки
+
+Clear_title = инициализация
+
+Clear_message = инициализация бы очистить все данные, уверен инициализировать?
+
+Clear_message2 = инициализация завершена!
+
+Clear_label = не опять инициализации
+
+Clear_b1 = инициализация
+
+Clear_b2 = отменить
+
+Recover_title = резервного восстановления
+
+Recover_b1 = резервного копирования
+
+Recover_b2 = восстановить
+
+Recover_message = резервной копии
+
+Recover_message2 = восстанавливается
+

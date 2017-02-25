@@ -1,0 +1,314 @@
+ui_title =Données 
+
+ui_data =Mise à jour des données 
+
+ui_information =Si 
+
+ui_popularization = de vulgarisation
+
+ui_resource = ressources
+
+Ui_accessory = annexe
+
+ui_setting =La création 
+
+Ui_link = amitié
+
+Ui_tell = séance. Métadonnées
+
+Ui_help = guide
+
+Ui_data_start = d’initialisation
+
+Les utilisateurs ui_data_save = de sauvegarde
+
+Ui_data_exit = de se retirer
+
+Ui_information_cartoon =  d’animation
+
+ui_information_anime = La
+
+ui_information_exhibition = déborder De 
+
+ui_popularization_summary = Si
+
+Peinture ui_popularization_picture = originales
+
+Ui_popularization_music = FanChang musicale
+
+Ui_popularization_note = légère finirait par roman
+
+Ui_popularization_dance = XuanDong logis
+
+Si ui_popularization_near = périphérie
+
+Ui_popularization_cosplay = Cosplay
+
+Ui_popularization_game = DianWan jeu
+
+Ui_popularization_video = vidéo
+
+Si ui_resource_picture = l’atlas
+
+Ui_resource_music = ému de la musique
+
+Si ui_resource_video = vidéo
+
+Ui_accessory_tools = petits
+
+Ui_accessory_games = petits jeux
+
+Ui_setting_in = d’introduire des données
+
+Ui_setting_out = données recyclé
+
+Ui_setting_set = logiciels
+
+Ui_link_forum = sur le site web du forum
+
+ui_link_music = Musique 
+
+Ui_link_video = vidéo du site web
+
+Ui_link_picture = du site de photographies
+
+Roman ui_link_note = légère
+
+Ui_link_project = rubrique thématique
+
+Ui_tell_ai = réponses automatiques
+
+ ui_help_help = À
+
+Ui_help_tell = Le dialogue reçus 
+
+Ui_help_about = sur le logiciel
+
+ui_help_term =Une équipe de 
+
+Tool_title = petits
+
+tool_communication =Communications 
+
+Tool_note = agenda
+
+tool_finder =Document 
+
+Tool_media = WMP
+
+Tool_pic = photos les navigateurs
+
+Tool_shutdown = l’arrêt du retardement
+
+Game_title = insouciant amusette
+
+Game_chess = WuZiQi
+
+Game_fright = bd rixe
+
+Game_get = XunBao
+
+tool_communication_title =Communications 
+
+tool_communication_addButton = Ajouter
+
+tool_communication_updateButton = Modifier
+
+tool_communication_deleteButton =Supprimer
+
+Tool_communication_optionButton = journal d’exploitation
+
+Tool_communication_findButton = recherche 
+
+Ajouter tool_communication_add_title =ajouter 
+
+Tool_communication_add_name = noms suivants:
+
+Tool_communication_add_phone = :
+
+Tool_communication_add_tel = tél.
+
+Tool_communication_add_qq = QQ:
+
+tool_communication_add_email =Courriel: 
+
+Tool_communication_add_addButton = add
+
+Tool_communication_add_giveupButton = fermés
+
+tool_communication_add_successMessage = réussite! Ajouter 
+
+Tool_communication_add_failMessage = d’ajouter un échec!
+
+Tool_communication_show_title = aux informations destinées aux usagers
+
+Tool_communication_show_name = noms suivants:
+
+Tool_communication_show_phone = :
+
+Tool_communication_show_tel = tél.
+
+Tool_communication_show_qq = QQ:
+
+tool_communication_show_email =Courriel: 
+
+Tool_communication_show_giveupButton = fermés
+
+tool_communication_delete_title =  Supprimer des 
+
+Tool_communication_delete_name = noms suivants:
+
+Tool_communication_delete_phone = supprimer :
+
+Tool_communication_delete_tel = tél.
+
+Tool_communication_delete_qq = QQ:
+
+tool_communication_delete_email = Courriel: 
+
+Tool_communication_delete_addButton = supprimé
+
+Tool_communication_delete_giveupButton = fermés
+
+Supprimer tool_communication_delete_successMessage = réussite!
+
+Supprimer tool_communication_delete_failMessage = échec!
+
+Tool_note_title = mémento -- -- -- garder chacun dans la vie
+
+Tool_note_show = show
+
+Tool_note_add = add
+
+Tool_note_update = modifiée
+
+Tool_note_delete = supprimé
+
+Tool_note_find = find
+
+Tool_note_date = date:
+
+Tool_note_time = date:
+
+Tool_note_text = aperçu général:
+
+Supprimer tool_note_message = réussite!
+
+Rappelle la création tool_note_messagePane_label1 = :
+
+Tool_note_messagePane_label2 = intitulé:
+
+Tool_note_messagePane_label3 = :
+
+Rappelle tool_note_messagePane_label4 = horaires: par exemple le 7 octobre 2013)
+
+Tool_note_messagePane_comboBox = c
+
+Tool_note_show_title =title
+
+Tool_note_show_exit = fermés
+
+tool_note_add_title =Ajouter 
+
+Tool_note_add_button1 = fermés
+
+Tool_note_add_button2 = fermés
+
+Ajouter tool_note_add_message = réussite!
+
+Modifier tool_note_update_title = title
+
+Tool_note_update_button1 = modifiée
+
+Tool_note_update_button2 = fermés
+
+Modifier tool_note_update_message = réussite!
+
+Tool_finder_title = recherche documentaire
+
+Tool_finder_find = find
+
+Tool_finder_stop = cesser
+
+Game_fright_title = rixe
+
+Game_fright_button =start
+
+Game_chess_title = WuZiQi
+
+game_chess_who1 = :Toutefois, il est 
+
+Il est game_chess_who2 = étaient les suivantes:
+
+game_chess_m1= a est gagne
+
+Il est game_chess_m2 = gagne: b
+
+Jeu game_chess_m3 = terminées.
+
+game_chess_m4 =!Une première étape est 
+
+Game_chess_b1 = HuiQi
+
+Game_chess_b2 = à prendre un nouveau départ
+
+Game_car_title = XunBao
+
+In_title = données importées
+
+In_message = succes!
+
+Out_title = données degrés
+
+out_save = Conservation
+
+Out_message = degrés succes!
+
+out_message1 =!À
+
+pane_c1 =La configuration 
+
+pane_c2 = Table des
+
+Pane_c3 = mémento
+
+Pane_b1 = qu’apporte
+
+pane_b2 =Téléchargement
+
+pane_b3 =Supprimer 
+
+setting_ok =applications 
+
+Setting_canel = levées
+
+Setting_open =parcourir 
+
+Modifier setting_message1 = réussite!
+
+Modifier setting_message2 = échec!
+
+Setting_title =La création 
+
+Clear_title = d’initialisation
+
+Délai clear_message = d’initialisation, peuvent toutes données d’initialisation?
+
+Clear_message2 = l’achèvement d’initialisation!
+
+N’a pas encore clear_label = d’initialisation également
+
+Clear_b1 = d’initialisation
+
+clear_b2 =Supprimer 
+
+recover_title = Sauvegarde
+
+recover_b1 =Sauvegarde
+
+recover_b2 = La
+
+recover_message =Sauvegarde 
+
+Recover_message2 = en phase de relèvement
+
